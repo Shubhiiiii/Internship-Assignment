@@ -1,1 +1,1 @@
-The site is not responsive since i fell short of time. I discovered the opportunity late. Please open index.html with Google Chrome.
+The site is not responsive. I discovered the opportunity late so i didn't get the time. Please open index.html with Google Chrome.
